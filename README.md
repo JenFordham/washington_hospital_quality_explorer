@@ -184,7 +184,7 @@ washington_hospital_quality_explorer/
 
 **Jen Fordham, RHIA**
 
-Healthcare Data Analyst
+Healthcare Data Integrity Analyst
 
 SQL • Python • Excel • Power BI • Healthcare Analytics
 
