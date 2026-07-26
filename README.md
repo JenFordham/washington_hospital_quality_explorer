@@ -3,9 +3,12 @@
 ### Analyzing CMS Hospital Quality Performance Across Washington Using Microsoft Excel
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PivotTables](https://img.shields.io/badge/PivotTables-Analysis-success?style=for-the-badge)
-![Dashboard Design](https://img.shields.io/badge/Dashboard-Executive-green?style=for-the-badge)
-![Healthcare Analytics](https://img.shields.io/badge/Healthcare-Analytics-2E7D32?style=for-the-badge)
+![PivotTables](https://img.shields.io/badge/PivotTables-5C5C5C?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics-1F77B4?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-FFC000?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-70AD47?style=for-the-badge)
+![Healthcare](https://img.shields.io/badge/Healthcare-2CA02C?style=for-the-badge)
+![CMS](https://img.shields.io/badge/CMS_Hospital_Compare-6B6B6B?style=for-the-badge)
 
 ---
 
@@ -187,4 +190,4 @@ SQL • Python • Excel • Power BI • Healthcare Analytics
 
 ---
 
-*"Transforming complex healthcare data into clear, actionable insights through effective data visualization."*
+*Transforming complex healthcare data into clear, actionable insights through effective data visualization.*
